@@ -24,6 +24,17 @@
       socket.on('mensaje', (payload) => {
         console.log('Escuando en el front', payload);
       });
+
+      socket.emit('emitir nuevo mensaje', 'JAJAJA XD');
+
+      socket.on('nuevo-mensaje', (payload) => {
+        console.log('Data que llega de flutter :', payload);
+      });
+
+      socket.on('active-bands', (payload) => {
+        console.clear();
+        console.table(payload);
+      });
     </script>
   </body>
 </html>
