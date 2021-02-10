@@ -194,7 +194,7 @@ class _HomePageState extends State<HomePage> {
 
     return Container(
       width: double.infinity,
-      height: 200,
+      height: 100,
       child: PieChart(dataMap: dataMap),
     );
   }

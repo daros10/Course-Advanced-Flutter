@@ -17,7 +17,7 @@ class SocketSetvice with ChangeNotifier {
 
   void _initConfing() {
     try {
-      this._socket = IO.io('http://192.168.0.7:3000', {
+      this._socket = IO.io('https://flutter-socket-io-server.herokuapp.com/', {
         'transports': ['websocket'],
         'autoConnect': false,
       });
