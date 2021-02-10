@@ -1,4 +1,4 @@
-# estado_singleton_flutter
+# patterns_management_state_flutter
 
 A new Flutter project.
 
