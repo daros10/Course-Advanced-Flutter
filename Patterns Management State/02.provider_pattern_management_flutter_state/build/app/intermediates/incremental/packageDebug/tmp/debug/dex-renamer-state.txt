@@ -1,4 +1,4 @@
-#Wed Feb 10 16:47:59 ECT 2021
-base.0=/Users/darioherrera/Desktop/TestFlutterSingleton/estado_singleton_flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Wed Feb 10 19:42:41 ECT 2021
+base.0=/Users/darioherrera/Documentos/Courses/Flutter/Course-Advanced-Flutter/Patterns Management State/02.provider_pattern_management_flutter_state/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
