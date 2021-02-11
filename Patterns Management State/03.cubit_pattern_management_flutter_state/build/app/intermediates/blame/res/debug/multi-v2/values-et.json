@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/darioherrera/Desktop/TestFlutterSingleton/estado_singleton_flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml",
+            "outputFile": "/Users/darioherrera/Documentos/Courses/Flutter/Course-Advanced-Flutter/Patterns Management State/03.cubit_pattern_management_flutter_state/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml",
             "map": [
                 {
                     "source": "/Users/darioherrera/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/values-et/values-et.xml",
