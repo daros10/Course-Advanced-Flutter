@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/darioherrera/Desktop/TestFlutterSingleton/estado_singleton_flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/darioherrera/Documentos/Courses/Flutter/Course-Advanced-Flutter/Patterns Management State/04.bloc_pattern_management_flutter_state/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/darioherrera/Desktop/TestFlutterSingleton/estado_singleton_flutter/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/darioherrera/Documentos/Courses/Flutter/Course-Advanced-Flutter/Patterns Management State/04.bloc_pattern_management_flutter_state/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
